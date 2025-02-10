@@ -12,7 +12,8 @@ This project automates the analysis and reporting of sales data. It covers data 
 ✅ **Scalable & Customizable** – Can be modified to analyze different datasets.
 
 ## 📸 Screenshots
-**
+*![image](https://github.com/user-attachments/assets/f432f0fc-3d76-4155-ba5b-5c768c90b838)
+*
 
 ## 🛠 How to Run the Project
 ### 1️⃣ Clone the Repository
