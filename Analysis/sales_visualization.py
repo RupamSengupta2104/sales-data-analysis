@@ -62,6 +62,8 @@ plt.xticks(rotation=45)
 # Show the plot
 plt.show()
 '''
+
+
 '''
 # Pivot the data for heatmap
 region_pivot = region_sales.pivot("Region", "Total_Units_Sold", "Total_Revenue")
@@ -76,6 +78,8 @@ plt.title("Regional Sales Performance")
 # Show the plot
 plt.show()
 '''
+
+
 '''
 # Convert Region to index and sort by revenue
 region_pivot = region_sales.set_index("Region")[["Total_Revenue"]]
